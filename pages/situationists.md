@@ -1,0 +1,20 @@
+---
+title: "Tim Cowlishaw — The Situationsts' Walkman"
+---
+
+### The Situationists' Walkman (2022)
+#### Collaboration with [Matt Spendlove](https://www.cenatus.org/about){target="_blank"}
+
+<iframe src="https://www.youtube.com/embed/6JJwGLDPmUg?si=IAQDDiCr0zYjtA5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Produced in collaboration with Matt Spendlove as part of our work for [Cenatus](https://cenatus.org/){target="_blank"} on [Creative xR audio research and development](https://cenatus.org/blog/26-creative-industries-fund-2021){target="_blank"}, funded by the [Innovate UK](https://www.gov.uk/government/organisations/innovate-uk){target="_blank"} Creative Industries Fund 2021, _[The Situationists Walkman](https://cenatus.org/blog/28-the-situationists-walkman---an-audio-augmented-reality-experience){target="_blank"} is_ an audio-only augmented-reality experience – a site-specific interactive sound art exhibit involving 9 invited artists, that exists completely virtually – delivered entirely through headphones and an iPhone app.
+
+Conceptually, we were interested in creating a playful, non-directed experience that offered surprising, uncanny sonic augmentation to the world around you. Using the city as a playground – a canvas upon which we could project directed audio stimulus that’s unconstrained by the physicality and hardware of a gallery setting, augmenting familiar surroundings with another layer of perceptual information. A 3D graphical score with a participant conductor.
+
+One particular reference we kept returning to was the [Situationist](https://en.wikipedia.org/wiki/Situationist_International){target="_blank"} idea of the _dérive – “a mode of experimental behaviour linked to the conditions of urban society: a technique of rapid passage through varied ambiances.”_ – an undirected, spontaneous exploration of the urban environment. This seemed particularly germane during the months in which we were working on this project – Facebook had just announced their “metaverse” strategy and rebrand, and a lot of the commentary and discourse around the announcement (as well as other [artistic references](http://hyper-reality.co){target="_blank"} we’d been inspired by) were concerned with the possibility that AR technologies might lead to further enclosure and commercialisation of public spaces. In this context, the idea that we might use the project both as an exploration of both the playful, open-ended possibilities of the technology for artistic expression, and a means of celebrating the importance of open public spaces and expanding them into AR-space, made the idea of a situationist-like intervention even more pertinent.
+
+The result was _The Situationists’ Walkman_ – a _digital dérive_, playing out within a small area of East London around Arnold Circus. An updated version of the Situationists’ vision using audio led exploration of the urban environment that prompts us to reconsider our relationship to this constructed or delineated space.
+
+In addition, I contributed one of the sound works featured in the exhibition, in collaboration with singer Constanza Piffardi. Based on a [fragment of traditional folk song sung by an ex-resident of the Boundary Estate](https://sounds.bl.uk/World-and-traditional-music/Roy-Palmer-collection/025M-C1023X0030XX-0800V0){target="_blank"}, found in the British Library sound archive, we produced a new piece for voice and electronics:
+
+<iframe src="https://www.youtube.com/embed/HfvNkleyVQM?si=ajxLMqDkqlFOVmgu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
