@@ -10,4 +10,4 @@ _Extrasensory Excess / Excesos Extrasensoriales: Imagining inclusions with disca
 
 
 
-Further information is available (in English and Castellano) in [the project proposal](/assets/docs/Extrasensory-excess-_-Excesos-extrasensoriales.pdf)
+Further information is available (in English and Castellano) in [the project proposal](/assets/docs/Extrasensory-excess-_-Excesos-extrasensoriales.pdf){target="_blank"}

@@ -105,7 +105,11 @@ ul li {
 }
 
 li {
-  margin-bottom: 0.5em;
+  margin-bottom: calc(0.5 * var(--spacer-unit));
+}
+
+ul li ul {
+  margin-top: calc(0.5 * var(--spacer-unit));
 }
 
 address {
