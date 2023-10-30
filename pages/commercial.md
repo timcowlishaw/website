@@ -4,7 +4,7 @@ title: "Tim Cowlishaw — Commercial Work"
 
 ### <span class="line">Commercial work</span>&emsp;<span class="line">_Trabajo comercial_</span>{.default-margin}
 
-Selected examples of my recent commercial work as a designer and developer:
+Selected examples of my recent commercial work as a designer and developer. (If you're interested in the more technical side of my work, take a look at [my GitHub profile](https://github.com/timcowlishaw){target="_blank" rel="me"} too, most of what I work on day-to-day there is public).
 
 #### [1020.live](https://1020.live/){target="_blank"} – 1020 Radio
 [![Screenshots of the 1020.live website](/assets/img/1020.png)](https://1020.live){target="_blank"}

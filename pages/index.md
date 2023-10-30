@@ -36,7 +36,7 @@ I'm available for hire as a freelance designer, researcher, and/or developer –
 * Being an expert technical collaborator or consultant on artistic or research-focused projects
 * Being responsible for UX design and research on products with a more 'technical' user base.
 
-If any of this sounds like something you need help with, [we should chat](mailto:tim@timcowlishaw.co.uk)!
+You can see examples of these in my [creative](/creative.html) and [commercial](/commercial.html) portfolios. If any of this sounds like something you need help with, [we should chat](mailto:tim@timcowlishaw.co.uk)!
 
 _Estoy disponible para trabajar como diseñador, investigador y/o desarrollador autónomo. He trabajado en todo tipo de proyectos, incluidas instalaciones artísticas, sitios web, aplicaciones móviles, prototipos físicos y experiencias inmersivas. Puedo asumir felizmente cualquiera de estos roles, aunque encuentro que soy más útil cuando trabajo en la intersección de dos o más de estas disciplinas. Algunas maneras en que esto ha funcionado bien en el pasado han sido las siguientes:_
 
@@ -46,4 +46,4 @@ _Estoy disponible para trabajar como diseñador, investigador y/o desarrollador 
 * _Siendo un colaborador experto técnico en proyectos artísticos o de investigación._
 * _Encargándome del diseño e investigación UX en productos dirigidos a usuarios de cáracter 'técnico'._
 
- _Si algo de esto suena como algo que necesitas, ¡[deberíamos hablar](mailto: tim@timcowlishaw.co.uk)!_
+ _Puedes ver ejemplos en mis portafolios [creativo](/creative.html) y [comercial](commercial.html). Si algo de esto suena como algo que necesitas, ¡[deberíamos hablar](mailto: tim@timcowlishaw.co.uk)!_
