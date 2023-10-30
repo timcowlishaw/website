@@ -1,0 +1,250 @@
+:root {
+  --main-font-family: "Cormorant", serif;
+  --heading-font-family: "Urbanist", sans-serif;
+  --main-bg-color: #ebe6d5;
+  --main-text-color: #0d121e;
+  --accent-text-color: #0e5080;
+  --lighter-text-color: #437aa2;
+  --white-color: #ffffff;
+  --spacer-unit: 1.5rem;
+}
+
+body {
+  font-family: var(--main-font-family);
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+  width: 95%;
+  margin: calc(2 * var(--spacer-unit)) auto;
+  font-size: 18px;
+}
+
+main {
+  margin-left: 0.5rem;  /* Align with the vertical of 'T' in h1 */
+  margin-right: 0.5rem;
+  margin-top: calc(2 * var(--spacer-unit));
+}
+
+nav {
+  font-family: var(--heading-font-family);
+  margin-left: 0.5rem;  /* Align with the vertical of 'T' in h1 */
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+}
+
+nav a {
+  margin-right: var(--spacer-unit);
+}
+
+
+h1 {
+  font-family: var(--heading-font-family);
+  font-size: 2rem;
+  line-height: 2rem;
+  color: var(--accent-text-color);
+  margin-top: 0;
+  margin-bottom: calc(0.5 * var(--spacer-unit));
+}
+
+h2 {
+  font-family: var(--heading-font-family);
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 1.6rem;
+  color: var(--accent-text-color);
+  margin-top: 0;
+  margin-left: 0.3rem; /* Align with the vertical of 'T' in h1 */
+  margin-bottom: calc(2 * var(--spacer-unit));
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: normal;
+  font-family: var(--heading-font-family);
+  color: var(--accent-text-color);
+}
+
+h3 em {
+  font-weight: lighter;
+}
+
+h3:not(.default-margin):has(+ h4) {
+  margin-bottom: calc(0.5 * var(--spacer-unit));
+}
+
+h3:not(.default-margin) + h4 {
+  margin-top: 0;
+}
+
+h4 {
+  font-family: var(--heading-font-family);
+  color: var(--accent-text-color);
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 1.6rem;
+}
+
+
+h5,
+h6 {
+  font-family: var(--main-font-family);
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+p {
+  line-height: 1.5em;
+  font-size: 1.2em;
+  margin-top: 0;
+}
+
+ul, ol, blockquote {
+  font-size: 1.2rem;
+}
+
+
+ul li {
+  list-style-type: "— ";
+}
+
+li {
+  margin-bottom: calc(0.5 * var(--spacer-unit));
+}
+
+ul li ul {
+  margin-top: calc(0.5 * var(--spacer-unit));
+}
+
+address {
+  font-weight: bold;
+  color: var(--accent-text-color);
+  font-size: 1.5rem;
+  margin-bottom: calc(3 * var(--spacer-unit));
+}
+
+a {
+  color: var(--accent-text-color);
+}
+
+a:hover {
+  color: var(--lighter-text-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--lighter-text-color);
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: var(--accent-text-color);
+  background-image: linear-gradient(to right, var(--main-bg-color), var(--accent-text-color), var(--main-bg-color));
+  margin-top: var(--spacer-unit);
+  margin-bottom: calc(0.25 * var(--spacer-unit));
+}
+
+figcaption {
+  display: none;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  margin-bottom: calc(0.5 * var(--spacer-unit));
+}
+
+iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-bottom: calc(0.5 * var(--spacer-unit));
+}
+
+blockquote {
+  border-left: 2px solid var(--lighter-text-color);
+  margin-left:0;
+  padding-left: var(--spacer-unit);
+  font-style: italic;
+  color: var(--lighter-text-color);
+}
+
+.homepage-layout {
+  display: flex;
+  flex-direction:  column;;
+  gap: calc(2 * var(--spacer-unit));
+}
+
+.homepage-layout > div {
+  width: 100%;
+}
+
+.homepage-layout img {
+  max-width: 100%;
+  margin: 0;
+}
+
+.line { /* For preferred line-break points */
+  display: inline-block;
+}
+
+/* MEDIA QUERIES */
+
+/*
+    Breakpoints:
+    small: 576px;
+    medium: 768px;
+    large: 992px;
+    extra-large: 1200px;
+*/
+
+/* large and up */
+@media only screen and (min-width: 992px) {
+
+  body {
+    width: 80%;
+    max-width: 1200px;
+  }
+
+  .homepage-layout {
+    flex-direction: row;
+  }
+
+  .homepage-layout > div {
+    width: 66%;
+  }
+
+
+  .homepage-layout > div:first-child {
+    width: 33%;
+  }
+
+  h1 {
+    font-size: 4rem;
+    line-height: 3.5rem;
+  }
+
+  h2 {
+    font-size: 2.4rem;
+    margin-left: 0.7rem; /* Align with vertical of T in h1 */
+  }
+
+  nav {
+    margin-left: 1rem; /* Align with vertical of T in h1 */
+    margin-right: 1rem;
+  }
+
+  main {
+    margin-left: 1rem; /* Align with vertical of T in h1 */
+    margin-right: 1rem;
+  }
+
+  address {
+    margin-bottom: calc(6 * var(--spacer-unit));
+  }
+}

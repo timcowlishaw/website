@@ -16,4 +16,4 @@ while IFS= read -d '' filename; do
   generate_page "${filename}" "${OUTPUT}" </dev/null
 done < <(find pages -type f -iname "*.md" -print0)
 
-ln -s ../assets/ docs/assets
+cp -r ./assets docs/
