@@ -8,7 +8,7 @@ title: "Tim Cowlishaw — CV (Español)"
 
 **2021 – 2024 (fecha de cumplimiento estimada) – Doctorado, Diseño y Comunicación, BAU Centro Universitario de Arte y Diseño, Barcelona.**
 
-Mi tesis se basa en la función social y estatus ontológico de los _desechos digitales_ – datos, archivos, imágenes y objetos digitales descartados, usándolos como una manera de investigar la materialidad e infraestructura de los medios digitales, y de criticar la centralidad del ‘uso instrumental’ en el diseño digital actual. Mi proyecto se compone de trabajo teórico y empírico, además de prácticas de diseño y exploración material.
+Mi tesis investiga el fenómeno de los "residuos digitales" desde una perspectiva ecológica. Estoy particularmente interesado en las maneras en que desechamos cosas digitales (es decir: software, datos, medios), las cuales tienen consecuencias sobre cómo desechamos dispositivos físicos (lo llamado "e-waste"), y el consumo del agua, de la energía y de otros recursos materiales de los medios digitales. También investigo las maneras en que las prácticas del diseño de interacción están enredadas con dichas materialidades. Mi proyecto es una tesis basado en prácticas, y recurre a los campos de investigación en diseño, "discard studies", ECTS, y la teoría materialista de los medios.
 
 **2010 – 2011: Máster en Ciencias de la Computación, University College London (Con distinción), Londres, RU**
 
@@ -30,7 +30,7 @@ Una variedad de trabajo para clientes diversos, incluyendo la BBC, los Archivos 
 
 
 
-**Abril 2016 – Noviembre 2019: Tecnólogo / Investigador – departamento de investigación y desarrollo, British Broadcasting Corporation, Londres, RU**
+**Abril 2016 – Noviembre 2019: Productor / Tecnólogo / Investigador – departamento de investigación y desarrollo, British Broadcasting Corporation, Londres, RU**
 
 Trabajaba en un pequeño equipo interdisciplinario diseñando, haciendo prototipos,  y entregando nuevos servicios y productos online, con un enfoque en el descubrimiento de información y contenidos – su búsqueda, recomendación y análisis. Durante mis últimos 18 meses allí, lideré el equipo de descubrimiento – gestionando proyectos, supervisando a otros miembros del equipo e iniciando proyectos y campos de investigación nuevos, y comunicando nuestros resultados y proyectos a públicos internos y externos, a través de artículos, charlas y talleres.
 

@@ -4,6 +4,8 @@ title: "Tim Cowlishaw — Commercial Work"
 
 ### <span class="line">Commercial work</span>&emsp;<span class="line">_Trabajo comercial_</span>{.default-margin}
 
+Selected examples of my recent commercial work as a designer and developer:
+
 #### [1020.live](https://1020.live/){target="_blank"} – 1020 Radio
 [![Screenshots of the 1020.live website](/assets/img/1020.png)](https://1020.live){target="_blank"}
 Design & Development (solo project). Developed in Javascript / React, with a Wordpress CMS, for the web.
