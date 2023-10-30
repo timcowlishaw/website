@@ -17,3 +17,4 @@ while IFS= read -d '' filename; do
 done < <(find pages -type f -iname "*.md" -print0)
 
 cp -r ./assets docs/
+cp CNAME docs/
