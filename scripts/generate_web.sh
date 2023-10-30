@@ -8,12 +8,12 @@ function generate_page () {
   pandoc  $PANDOC_SHARED_ARGS --template "templates/web/page.html" $1 -o $2
 }
 
-rm -rf build/*
-mkdir -p build/web
+rm -rf docs/
+mkdir -p docs/
 while IFS= read -d '' filename; do
   BASENAME=$(basename -s ".md" $filename)
-  OUTPUT="build/web/${BASENAME}.html"
+  OUTPUT="docs/${BASENAME}.html"
   generate_page "${filename}" "${OUTPUT}" </dev/null
 done < <(find pages -type f -iname "*.md" -print0)
 
-ln -s ../../assets/ build/web/assets
+ln -s ../assets/ docs/assets

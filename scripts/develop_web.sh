@@ -5,4 +5,4 @@ function rebuild_web {
 }
 
 scripts/generate_web.sh
-python -m http.server --directory build/web/ & rebuild_web; fg
+python -m http.server --directory docs/ & rebuild_web; fg
