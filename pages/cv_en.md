@@ -20,7 +20,7 @@ Including: graphic design, animation, typography, research skills, critical and 
 
 #### Experience
 
-**September 2021 – present: Occasional teacher, BAU University Center of Art and Design, Barcelona, Spain**
+**September 2021 – present: Sessional lecturer, BAU University Center of Art and Design, Barcelona, Spain**
 
 I teach several classes and practical workshops of the Speculative and Critical Design module of the Master's Degree in Design Research.
 
