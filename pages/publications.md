@@ -12,6 +12,7 @@ title: "Tim Cowlishaw — Publications & Research activities"
 * **[The case for public service recommender algorithms](/assets/docs/fatrec2018-fields.pdf){target="_blank"}** – Fields B, Jones R and Cowlishaw T, FATREC 2018
 * **[Quote extraction and analysis for news](/assets/docs/dsjm2018-newell.pdf){target="_blank"}** – Newell C, Cowlishaw T and Man D, Proceedings of KDD Workshop on Data Science, Journalism and Media 2018
 * **[Tellybox: Nine speculative prototypes for future TV](https://dl.acm.org/doi/10.1145/3084289.3089910){target="_blank"}** – Miller L, Moore J, Cowlishaw T, Cooke H, Onumonu A, Hentschel J, Howe T, Needham C, Sedriks S and Sewell R, Proceedings of ACM TVX 2017
+* **[The Right To The Network: Radical Urbanism of Digital Public Space](https://medium.com/contributoria/the-right-to-the-network-radical-urbanism-of-digital-public-space-d8df092d082d){target="_blank"}** – Cowlishaw T, Contributoria, 2015 [[archived]](/assets/docs/righttothenetwork.pdf){target="_blank"}
 
 ### <span class="line">Teaching</span>&emsp;<span class="line">_Docencia_</span>
 * Critical and Speculative Design (Sessional lecturer), MA Design Research, BAU School of Art and Design, Barcelona (2021-2023):
