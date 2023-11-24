@@ -8,7 +8,7 @@ title: "Tim Cowlishaw — CV (Español)"
 
 **2021 – 2024 (fecha de cumplimiento estimada) – Doctorado, Diseño y Comunicación, BAU Centro Universitario de Arte y Diseño, Barcelona.**
 
-Mi tesis investiga el fenómeno de los "residuos digitales" desde una perspectiva ecológica. Estoy particularmente interesado en las maneras en que desechamos cosas digitales (es decir: software, datos, medios), las cuales tienen consecuencias sobre cómo desechamos dispositivos físicos (lo llamado "e-waste"), y el consumo del agua, de la energía y de otros recursos materiales de los medios digitales. También investigo las maneras en que las prácticas del diseño de interacción están enredadas con dichas materialidades. Mi proyecto es una tesis basado en prácticas, y recurre a los campos de investigación en diseño, "discard studies", ECTS, y la teoría materialista de los medios.
+Mi tesis investiga el fenómeno de los "residuos digitales" desde una perspectiva ecológica. Estoy particularmente interesado en las maneras en que desechamos cosas digitales (es decir: software, datos, medios), las cuales tienen consecuencias sobre cómo desechamos dispositivos físicos (lo llamado "e-waste"), y el consumo del agua, de la energía y de otros recursos materiales de los medios digitales. También investigo las maneras en que las prácticas del diseño de interacción están enredadas con dichas materialidades. Mi proyecto es una tesis basado en prácticas, y recurre a los campos de investigación en diseño, "discard studies", ECTS, y las humanidades medioambientales.
 
 **2010 – 2011: Máster en Ciencias de la Computación, University College London (Con distinción), Londres, RU**
 
