@@ -6,7 +6,7 @@ title: "Tim Cowlishaw"
 
 <div class="homepage-layout">
 <div>
-![A picture of me. Hello!](/assets/img/me.jpg)
+![A picture of me. Hello!](/assets/img/me_dithered.gif)
 </div>
 <div>
 Hello, my name is Tim. I am an interaction designer, researcher and sometimes also get called a "creative technologist" (you know, a "mostly art-y person who also knows how to code"). I'm originally from London, and now based in Barcelona, where I'm studying for a PhD in Design & Communication at BAU School of Art and Design. If you use Mastodon, you can find me at [@mistertim@assemblag.es](https://assemblag.es/@mistertim){target="_blank" rel="me"}, or you can get in touch by [emailing me](mailto:tim@timcowlishaw.co.uk).
