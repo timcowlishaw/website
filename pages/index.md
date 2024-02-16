@@ -9,10 +9,10 @@ title: "Tim Cowlishaw"
 ![A picture of me. Hello!](/assets/img/me_dithered.gif)
 </div>
 <div>
-Hello, my name is Tim. I am an interaction designer, researcher and sometimes also get called a "creative technologist" (you know, a "mostly art-y person who also knows how to code"). I'm originally from London, and now based in Barcelona, where I'm studying for a PhD in Design & Communication at BAU School of Art and Design. If you use Mastodon, you can find me at [@mistertim@assemblag.es](https://assemblag.es/@mistertim){target="_blank" rel="me"}, or you can get in touch by [emailing me](mailto:tim@timcowlishaw.co.uk).
+Hello, my name is Tim. I am an interaction designer, researcher and sometimes also get called a "creative technologist" (you know, a "mostly art-y person who also knows how to code"). I'm originally from London, and now based in Tarragona, Catalonia. If you use Mastodon, you can find me at [@mistertim@assemblag.es](https://assemblag.es/@mistertim){target="_blank" rel="me"}, or you can get in touch by [emailing me](mailto:tim@timcowlishaw.co.uk).
 
 
-_Hola, Soy Tim – Soy diseñador de interacción, investigador y a veces me llaman "creative technologist" (o sea: un tipo más o menos 'artistico' que también sabe de códigos y tal). Soy originalmente de Londres, y ahora vivo en Barcelona, donde estoy doctorando en Diseño y Comunicación en el BAU. Si usas Mastodon, me puedes encontrar en [@mistertim@assemblag.es](https://assemblag.es/@mistertim){target="_blank" rel="me"}, o me puedes [mandar un correo](mailto:tim@timcowlishaw.co.uk), si quieres._
+_Hola, Soy Tim – Soy diseñador de interacción, investigador y a veces me llaman "creative technologist" (o sea: un tipo más o menos 'artistico' que también sabe de códigos y tal). Soy originalmente de Londres, y ahora vivo en Tarragona. Si usas Mastodon, me puedes encontrar en [@mistertim@assemblag.es](https://assemblag.es/@mistertim){target="_blank" rel="me"}, o me puedes [mandar un correo](mailto:tim@timcowlishaw.co.uk), si quieres._
 
 
 </div>
