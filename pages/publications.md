@@ -2,8 +2,9 @@
 title: "Tim Cowlishaw — Publications & Research activities"
 ---
 
-### Publications&emsp;_Publicaciones_
-
+### Publications&emsp;_Publicaciones_&emsp;_Publicacions_
+* **[Peering](/peering.html){target="_blank"}** – Cowlishaw T, in [Liminal Excavations](https://sflab.eecs.kth.se/pub/pj7s6ahe/release/6){target="_blank"}, eds. Aksel Biørn-Hansen & Oliver Bates, ICT4S 2024, Stockholm.
+* **[On Knowing Matter: A speculative cartography of the material ecology of Artificial Intelligence](https://lab.cccb.org/en/on-knowing-matter/){target="_blank"}** – Cowlishaw T, CCCB Lab Blog, 2024
 * **[“Tiny Tools” and “Little Loops”: software art as care-ful software practice](https://www.buzzsprout.com/1323889/11330676-episode-3-2022-tim-cowlishaw-tiny-tools-and-little-loops-software-art-as-care-ful-software-practice){target="_blank"}** – Cowlishaw T, EASST 2022, Madrid.
 * **[The Symbols of the Divine: Approaching a post-human ontology of digital design via the study of discards](https://www.inmaterialdesign.com/INM/article/view/142){target="_blank"}** – Cowlishaw T, Inmaterial: Diseño Arte y Sociedad 2022.
 * **[Designing an interactive and collaborative experience in audio augmented reality](https://link.springer.com/chapter/10.1007/978-3-030-31908-3_20){target="_blank"}** – Bauer V, Nagele A, Baume C, Cowlishaw T, Cooke H, Pike C, Healey P, EuroVR 2019
@@ -14,8 +15,9 @@ title: "Tim Cowlishaw — Publications & Research activities"
 * **[Tellybox: Nine speculative prototypes for future TV](https://dl.acm.org/doi/10.1145/3084289.3089910){target="_blank"}** – Miller L, Moore J, Cowlishaw T, Cooke H, Onumonu A, Hentschel J, Howe T, Needham C, Sedriks S and Sewell R, Proceedings of ACM TVX 2017
 * **[The Right To The Network: Radical Urbanism of Digital Public Space](https://medium.com/contributoria/the-right-to-the-network-radical-urbanism-of-digital-public-space-d8df092d082d){target="_blank"}** – Cowlishaw T, Contributoria, 2015 [[archived]](/assets/docs/righttothenetwork.pdf){target="_blank"}
 
-### <span class="line">Teaching</span>&emsp;<span class="line">_Docencia_</span>
-* Critical and Speculative Design (Sessional lecturer), MA Design Research, BAU School of Art and Design, Barcelona (2021-2023):
+### <span class="line">Teaching</span>&emsp;<span class="line">_Docencia_</span>&emsp;<span class="line">_Docència_</span>
+* FMP/TFM Tutor, MA Design Research, BAU School of Art and Design, Barcelona (2024). Tutees: [Matilde Sartori](https://www.socbau.net/tfg/tfm/slime-machine/){target="_blank"}, [Fátima Valer Marquez](https://www.socbau.net/tfg/tfm/equialtervalents-now-discarded-artifacts-experiment-01-quipu/){target="_blank"}, [Virginia Padovani](https://www.socbau.net/tfg/tfm/design-for-economy/){target="_blank"}, [Kasia Pluto](https://www.socbau.net/tfg/tfm/ms-paint-forever-a-net-artist-manifesto/){target="_blank"}, [Mohammed El Sabee](https://www.socbau.net/tfg/tfm/a-manifesto-of-self/){target="_blank"}.
+* Critical and Speculative Design (Sessional lecturer), MA Design Research, BAU School of Art and Design, Barcelona (2021-2024):
     * 2023: **Refuse, Reuse, Repair: Waste & Speculation** [[slides]](https://docs.google.com/presentation/d/1KXt1WTMLB1V8jmbVrwdEwJ1pn2h4ddyDpVKYw16x-n8/edit#slide=id.p){target="_blank"} [[handout]](https://docs.google.com/document/d/1yIpKQEszoXBdDJodZhB62jtjLmn-JRL7cdNiuNjnMMc/edit#heading=h.f4hv4dbuumd5){target="_blank"} [[summary]](https://docs.google.com/document/d/1I5dzc1weCE-HaXasC2YakZ1pf295jN2FKJ2YoVkh-8s/edit#heading=h.ovmn9mcebuc7){target="_blank"}
     * 2022: **Poder, Perdición y Periferias: Especulación con desechos** [[slides]](https://docs.google.com/presentation/d/1SkWjM9BSFvHdA5QsQ3y_H4jq01aFfZ9Nj1JR74FjFsA/edit#slide=id.p){target="_blank"}
     * 2021: **Especulación como adivinación, Adivinación como especulación.** [[slides 1]](https://docs.google.com/presentation/d/1a9p9CFRJoOgQ-OIB5BFZIFHDUyy6Xiig7eBJf0GMmRc/edit#slide=id.p){target="_blank"} [[slides 2]](https://docs.google.com/presentation/d/14uxCdviN9PyX2mMVwPCO1cbELNQ98VrYtSPEda4kcqg/edit#slide=id.p){target="_blank"}
@@ -28,9 +30,11 @@ title: "Tim Cowlishaw — Publications & Research activities"
 
 
 
-### <span class="line">Talks, exhibitions, workshops, etc.</span>&emsp;<span class="line">_Charlas, exposiciones, talleres, etc._</span>
-
-* Workshop programme on AI, Music and Creativity for secondary school students as part of the **[ALIA – Inteligencia artificial](https://www.cccb.org/es/crear-aprender/ficha/alia-inteligencia-artificial/242312){target="_blank"}** programme at [CCCB](https://www.cccb.org){target="_blank"}, Barcelona (2024).
+### <span class="line">Talks, exhibitions, workshops, etc.</span>&emsp;<span class="line">_Charlas, exposiciones, talleres, etc._</span>&emsp;<span class="line">_Xerrades, exposicions, tallers, etc._</span>
+* **[Neural Network Neuromancy: An experimental media archaeology of language models](https://docs.google.com/presentation/d/1F7LoCD3RLbESh3og_lpKQQwnHq-sU2WW2mqOPyLwufs/edit#slide=id.p){target="_blank"}**, workshop activity at [DASTS 2024](https://www.dasts.dk/?tribe_events=dasts-konference-2024-elegies-of-waste-surplus-and-excess){target="_blank"}, DTU, Copenhagen, Denmark, June 2024.
+* **[Speculation through Surplus: A Discard Studies approach for care through speculative design](https://docs.google.com/presentation/d/1dRDO5hJPswKA3hnFE-u8ZlWRriHeeaX7ImzauCqznmM/edit#slide=id.p){target="_blank"}**, presentation at [DASTS 2024](https://www.dasts.dk/?tribe_events=dasts-konference-2024-elegies-of-waste-surplus-and-excess){target="_blank"}, DTU, Copenhagen, Denmark, June 2024.
+* **[Stones Whisper Secrets](/stones_whisper_secrets.html)**, performance with [Mercè Jara Muns](https://laescocesa.org/es/view/MerceJaraMuns/3534){target="_blank"} at [VIU 2024](https://www.toplap.cat/posts/viu-2024/){target="_blank"}, Barcelona, April 2024
+* Workshop programme on AI, Music and Creativity for secondary school students as part of the **[ALIA – Inteligencia artificial](https://www.cccb.org/es/crear-aprender/ficha/alia-inteligencia-artificial/242312){target="_blank"}** programme at [CCCB](https://www.cccb.org){target="_blank"}, with Constanza Piffardi, Barcelona, January 2024.
 * **[Mentes, Mentiras y Materialidades (Minds, Lies and Materials) (2023 – 2024)](https://www.cccb.org/en/activities/file/minds-lies-and-materials/243183){target="_blank"}** – Workshop on the materiality and environmental impact of AI as part of the cycle of events for the exhibition [Intel·ligència artificial](https://www.cccb.org/en/exhibitions/file/ai-artificial-intelligence/240941){target="_blank"} at [CCCB](https://www.cccb.org){target="_blank"}, Barcelona.
 * Moderator of the panel discussion **The Philosophy of Design Concepts** at [Let's Define](https://www.letsdefine.io){target="_blank"} conference 2023, Barcelona, Spain.
 * Presentation: **["From Refuse to Refusal: A Media ecology of Digital Waste"](/assets/docs/royalholloway.pdf){target="_blank"}** at the Material Ecologies of Media Symposium, Royal Holloway University, London, UK, June 2023.

@@ -6,7 +6,7 @@ title: "Tim Cowlishaw — CV (English)"
 
 #### Education
 
-**2021 – 2024 (estimated completion date) – PhD, Design and Communication, BAU  School of Art and Design, Barcelona.**
+**2021 – 2026 (estimated completion date) – PhD, Design and Communication, BAU  School of Art and Design, Barcelona.**
 
 My thesis investigates the phenomenon of _digital waste_ from an ecological perspective. I'm particularly interested in the ways in which the ways in which we discard digital things (in the sense of files, software, data, media) have consequences for how we discard physical devices (i.e. e-waste), and the use of energy, water, and other material resources by digital media. I also examine in the ways in which interaction design practices are entangled with these materialities. It's a practice research project, and draws on design research, discard studies, STS, and the environmental humanities.
 
@@ -22,7 +22,7 @@ Including: graphic design, animation, typography, research skills, critical and 
 
 **September 2021 – present: Sessional lecturer, BAU University Center of Art and Design, Barcelona, Spain**
 
-I teach several classes and practical workshops of the Speculative and Critical Design module of the Master's Degree in Design Research.
+I teach several classes and practical workshops of the Speculative and Critical Design module of the Master's Degree in Design Research, and am an FMP tutor.
 
 **December 2010 – today: Freelance researcher, designer and developer, London, UK and Barcelona, Spain**
 

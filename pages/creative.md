@@ -2,7 +2,19 @@
 title: "Tim Cowlishaw — Creative Projects"
 ---
 
-### <span class="line">Creative projects</span>&emsp;<span class="line">_Proyectos creativos_</span> {.default-margin}
+### <span class="line">Creative projects</span>&emsp;<span class="line">_Proyectos creativos_</span>&emsp;<span class="line">_Projectes creatius_</span>{.default-margin}
+
+#### [Stones Whisper Secrets (2024)](/stones_whisper_secrets.html)
+
+[![A man and a woman stand around a table in the middle of a concert space. The woman is hitting a ceramic bowl with a beater while the man types on a laptop.](/assets/img/stones_whisper_dithered.gif)](/stones_whisper_secrets.html)
+
+#### [I remember when all of this was just fields / _Antes, todo esto era campo_ (2024)](/just_fields.html)
+
+[![A google maps satellite-view screenshot of an empty, greeen field, with a single red pin in the middle labeled "Amazon Web Services"](/assets/img/just_fields_dithered.gif)](/just_fields.html)
+
+#### [Peering (2024)](/peering.html)
+
+[![The cover of the PEERING zine - The text "PEERING" and "Tim Cowlishaw" vertically down the left of the page, plus a dithered, blurry picture of my face peering in from the right hand edge.](/assets/img/peering_dithered.gif)](/peering.html)
 
 #### [In Parallax (2023)](/in_parallax.html)
 

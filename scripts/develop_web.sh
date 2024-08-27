@@ -2,10 +2,10 @@
 set -m
 
 function rebuild_web {
-    fswatch -o -r assets/ templates/ pages/ | xargs -n1 -I{} scripts/generate_web.sh
+  fswatch -o -r -i "(assets|templates|pages)/" | xargs -n1 scripts/generate_web.sh
 }
 
 scripts/generate_web.sh
-python -m http.server --directory docs/ & 
+python -m http.server --directory docs/ &
 rebuild_web
 fg
