@@ -6,6 +6,11 @@ title: "Tim Cowlishaw — Commercial Work"
 
 Selected examples of my recent commercial work as a designer and developer. (If you're interested in the more technical side of my work, take a look at [my GitHub profile](https://github.com/timcowlishaw){target="_blank" rel="me"} too, most of what I work on day-to-day there is public).
 
+_(The images on this page are [dithered](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/){target="_blank"}, click through to see them in full resolution and in colour!)_
+
+#### [Distributed Design Learning Hub](/distributed_design_learning_hub.html) -- Institute for Advanced Architecture of Catalonia
+[![Screenshots of the Distributed Design Learning Hub](/assets/img/ddlh_dithered.gif)](/distributed_design_learning_hub.html)
+
 #### [1020.live](/1020.html) – 1020 Radio
 [![Screenshots of the 1020.live website](/assets/img/1020_dithered.gif)](/1020.html)
 

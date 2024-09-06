@@ -4,6 +4,8 @@ title: "Tim Cowlishaw — Creative Projects"
 
 ### <span class="line">Creative projects</span>&emsp;<span class="line">_Proyectos creativos_</span>&emsp;<span class="line">_Projectes creatius_</span>{.default-margin}
 
+_(The images on this page are [dithered](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/){target="_blank"}, click through to see them in full resolution and in colour!)_
+
 #### [Stones Whisper Secrets (2024)](/stones_whisper_secrets.html)
 
 [![A man and a woman stand around a table in the middle of a concert space. The woman is hitting a ceramic bowl with a beater while the man types on a laptop.](/assets/img/stones_whisper_dithered.gif)](/stones_whisper_secrets.html)
