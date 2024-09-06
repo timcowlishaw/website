@@ -16,7 +16,7 @@ _(Inspired by [Justin](https://justinpickard.net/compost/current-activities/){ta
 
  - Working with [FabLab BCN](https://fablabbcn.org/){target="_blank"}, designing and building the [Distributed Design Learning Hub](https://learn.distributeddesign.eu/){target="_blank"}, as well as keeping [Make Works](https://make.works/){target="_blank"} and [SmartCitizen](https://smartcitizen.me/){target="_blank"} running and (hopefully!) steadily improving.
 
- - Lecturing at [BAU](https://www.baued.es){target="_blank"} on the [Master's degree in Design Research](https://www.baued.es/en/studies/masters-and-postgraduate-degrees/masters-degree-in-design-research){target="_blank"}
+ - Lecturing at [BAU](https://www.baued.es){target="_blank"} on the [Master's degree in Design Research](https://www.baued.es/en/studies/masters-and-postgraduate-degrees/masters-degree-in-design-research){target="_blank"}.
 
  - Preparing a presentation on using [Discard Studies](https://discardstudies.com/){target="_blank"} as a speculative design method for the ["Expandiendo los Márgenes" conference](https://designconferenceuoc.net/){target="_blank"} at [UOC](https://www.uoc.edu/en){target="_blank"} in December.
 
